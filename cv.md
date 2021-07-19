@@ -1,6 +1,3 @@
-<>
-
----
 
 # Yaraslau Tsarkou
 
@@ -35,9 +32,15 @@ Basic knowledge of **Python**, **HTML**, **CSS**, **Git**, **JavaScript**, **Dev
 
 # Code Sample
 
-///
-
-
+    def exponentiation(a, j):
+        i = 1
+        s = a
+        while i < j:
+            s = a ** i
+            i += 1
+            print(s)
+        
+    exponentiation(3, 10)
 
 ---
 
