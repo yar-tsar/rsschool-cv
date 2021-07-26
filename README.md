@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://yar-tsar.github.io/rsschool-cv/cv
+https://yar-tsar.github.io/rsschool-cv
